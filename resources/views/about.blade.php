@@ -74,7 +74,7 @@
     </div>
     
     <footer>
-        <p>&copy; 2024 NetConnect Pro. All rights reserved. | Professional Network Infrastructure Solutions</p>
+        <p>&copy; 2025 NetConnect Pro. All rights reserved. | Professional Network Infrastructure Solutions</p>
     </footer>
 </body>
 </html>
